@@ -1,0 +1,10 @@
+{
+  "name": "glob",
+  "main": "glob.d.ts",
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1c56e368e17bb28ca57577250624ca5bd561aa81"
+  },
+  "dependencies": {
+    "minimatch": "github:typings/typed-minimatch#74f47de8acb42d668491987fc6bc144e7d9aa891"
+  }
+}

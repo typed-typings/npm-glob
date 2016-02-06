@@ -1,0 +1,6 @@
+{
+  "files": [
+    "typings/main.d.ts",
+    "glob.d.ts"
+  ]
+}
